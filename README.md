@@ -36,6 +36,11 @@ It replaces each letter with another letter a fixed number of positions down the
 
 ---
 
+echo "Testing YOLO badge" >> README.md
+git add README.md
+git commit -m "Test YOLO badge"
+
+
 ### 👨‍💻 Author
 Developed by [**Brian Kasi (Kbryaann)**](https://github.com/Kbryaann)  
 Licensed under the MIT License.
