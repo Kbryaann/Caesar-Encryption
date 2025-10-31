@@ -1,9 +1,10 @@
 # 🔐 Caesar Cipher Encryption
 
 A simple web app that encrypts text using the **Caesar cipher** algorithm — shifting each letter by a user-specified key.  
-Built with **HTML**, **CSS**, and **JavaScript**.
+Built with HTML, CSS, and JavaScript
 
 ---
+
 
 ### Live Demo
 👉 [Open the Caesar Cipher App](https://kbryaann.github.io/Caesar-Encryption/)
@@ -35,6 +36,9 @@ The Caesar cipher is one of the oldest and simplest encryption techniques, inven
 It replaces each letter with another letter a fixed number of positions down the alphabet.
 
 ---
+
+echo "Testing YOLO badge" >> README.md
+
 
 ### 👨‍💻 Author
 Developed by [**Brian Kasi (Kbryaann)**](https://github.com/Kbryaann)  
